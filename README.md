@@ -254,22 +254,10 @@ Below is a curated list of educational YouTube videos that provide both theoreti
 
 ### Mathematical Perspective
 
-A sequential series by *Global Software Support* demonstrating the step-by-step evolution of the algorithm, leading to the use of the damping factor:
+A comprehensive playlist by *Global Software Support* that sequentially builds an understanding of the PageRank algorithm, covering examples, matrix representation, the random surfer model, potential issues, and the final formula:
 
-1. **PageRank Algorithm – Example**  
-   [![Watch on YouTube](https://img.youtube.com/vi/P8Kt6Abq_rM/0.jpg)](https://www.youtube.com/embed/P8Kt6Abq_rM?si=MBtSzhaHXOFs25Y6)
+- **[Google's PageRank Algorithm – Playlist by Global Software Support](https://youtube.com/playlist?list=PLH7W8KdUX6P2n4XwDiKsEU6sBhQj5cAqa&si=yP1cQMtIi_aqa9pC)**
 
-2. **PageRank Algorithm – Matrix Representation**  
-   [![Watch on YouTube](https://img.youtube.com/vi/kSmQbVxqOJc/0.jpg)](https://www.youtube.com/embed/kSmQbVxqOJc?si=bV3WEIuifnPbkIMO)
-
-3. **PageRank Algorithm – Random Surfer Model**  
-   [![Watch on YouTube](https://img.youtube.com/vi/oRFDAkB6sMA/0.jpg)](https://www.youtube.com/embed/oRFDAkB6sMA?si=10NNiKysrOx2r4lU)
-
-4. **PageRank Algorithm – Problems**  
-   [![Watch on YouTube](https://img.youtube.com/vi/REYPZBRJjvM/0.jpg)](https://www.youtube.com/embed/REYPZBRJjvM?si=Yxh1EsxKgW2nZ1gu)
-
-5. **PageRank Algorithm – Final Formula**  
-   [![Watch on YouTube](https://img.youtube.com/vi/EvVPoDMDTM8/0.jpg)](https://www.youtube.com/embed/EvVPoDMDTM8?si=v3Fv-juEa6uDqBbY)
 
 
 
