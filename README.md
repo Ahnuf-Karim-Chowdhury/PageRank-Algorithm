@@ -208,4 +208,38 @@ Transition probabilities = {
   <li>If a page has no outgoing links, assume it links to every page in the corpus (including itself).</li>
 </ul>
 
+<h2>Summarizer Version</h2>
+
+<h3>Random Surfer Model</h3>
+<ul>
+  <li>Imagine a person randomly clicking on links across web pages.</li>
+  <li>The probability of being on a page depends on how many other pages link to it.</li>
+  <li>Links from important pages carry more weight.</li>
+</ul>
+
+<h3>Markov Chain Approach</h3>
+<ul>
+  <li>Each page is a state, and transitions happen when the surfer clicks links randomly.</li>
+  <li>Over time, we estimate how often the surfer lands on each page.</li>
+</ul>
+
+<h3>The Problem with Isolated Pages</h3>
+<ul>
+  <li>If two pages only link to each other, the surfer gets stuck there, making other pages seem irrelevant.</li>
+  <li>This creates inaccuracies in ranking.</li>
+</ul>
+
+<h3>Introducing Damping Factor (<code>d</code>)</h3>
+<ul>
+  <li>To prevent getting stuck, a damping factor (typically 0.85) lets the surfer randomly jump to any page sometimes.</li>
+  <li>This ensures every page has a chance to be visited.</li>
+</ul>
+
+<h3>Iterative Approach to PageRank Calculation</h3>
+<ul>
+  <li>Initially, all pages have equal rank.</li>
+  <li>Update ranks based on incoming links and importance of linking pages.</li>
+  <li>Repeat until the ranks stabilize.</li>
+</ul>
+
 
