@@ -242,4 +242,34 @@ Transition probabilities = {
   <li>Repeat until the ranks stabilize.</li>
 </ul>
 
+## Recommended YouTube Resources
+
+Below is a curated list of educational YouTube videos that provide both theoretical and mathematical insights into the workings of the PageRank algorithm.
+
+### Theoretical Overview
+
+- **How Google's PageRank Algorithm Works – Spanning Tree Explanation**  
+  [![Watch on YouTube](https://img.youtube.com/vi/meonLcN7LD4/0.jpg)](https://www.youtube.com/embed/meonLcN7LD4?si=CVEHZON8lZh8CtLs)  
+  A conceptual explanation of the PageRank algorithm using a spanning tree model.
+
+### Mathematical Perspective
+
+A sequential series by *Global Software Support* demonstrating the step-by-step evolution of the algorithm, leading to the use of the damping factor:
+
+1. **PageRank Algorithm – Example**  
+   [![Watch on YouTube](https://img.youtube.com/vi/P8Kt6Abq_rM/0.jpg)](https://www.youtube.com/embed/P8Kt6Abq_rM?si=MBtSzhaHXOFs25Y6)
+
+2. **PageRank Algorithm – Matrix Representation**  
+   [![Watch on YouTube](https://img.youtube.com/vi/kSmQbVxqOJc/0.jpg)](https://www.youtube.com/embed/kSmQbVxqOJc?si=bV3WEIuifnPbkIMO)
+
+3. **PageRank Algorithm – Random Surfer Model**  
+   [![Watch on YouTube](https://img.youtube.com/vi/oRFDAkB6sMA/0.jpg)](https://www.youtube.com/embed/oRFDAkB6sMA?si=10NNiKysrOx2r4lU)
+
+4. **PageRank Algorithm – Problems**  
+   [![Watch on YouTube](https://img.youtube.com/vi/REYPZBRJjvM/0.jpg)](https://www.youtube.com/embed/REYPZBRJjvM?si=Yxh1EsxKgW2nZ1gu)
+
+5. **PageRank Algorithm – Final Formula**  
+   [![Watch on YouTube](https://img.youtube.com/vi/EvVPoDMDTM8/0.jpg)](https://www.youtube.com/embed/EvVPoDMDTM8?si=v3Fv-juEa6uDqBbY)
+
+
 
